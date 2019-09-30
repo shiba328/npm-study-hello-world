@@ -23,7 +23,7 @@ init
 ```
 
 # Changelog
-[Changelog](Changelog)
+[Changelog](https://github.com/shiba328/npm-study-hello-world/blob/master/CHANGELOG.md)
 
 # Author
 [shiba328](https://github.com/shiba328)
