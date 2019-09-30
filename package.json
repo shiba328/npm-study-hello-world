@@ -3,7 +3,9 @@
   "version": "1.0",
   "description": "npm勉強用のpackag",
   "main": "index.js",
-  "scripts": {},
+  "scripts": {
+    "release": "standard-version"
+  },
   "bin": "bin/nshwModule",
   "repository": {
     "type": "git",
@@ -14,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/shiba328/npm-study-hello-world/issues"
   },
-  "homepage": "https://github.com/shiba328/npm-study-hello-world#readme"
+  "homepage": "https://github.com/shiba328/npm-study-hello-world#readme",
+  "devDependencies": {
+    "standard-version": "^7.0.0"
+  }
 }
