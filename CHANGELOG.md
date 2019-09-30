@@ -2,6 +2,18 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.1.3](https://github.com/shiba328/npm-study-hello-world/compare/v1.1.2...v1.1.3) (2019-09-30)
+
+
+### Bug Fixes
+
+* fix typo ([2586030](https://github.com/shiba328/npm-study-hello-world/commit/2586030))
+* fix typo ([4e85642](https://github.com/shiba328/npm-study-hello-world/commit/4e85642))
+* git config ([7544b78](https://github.com/shiba328/npm-study-hello-world/commit/7544b78))
+* git config ([763fab3](https://github.com/shiba328/npm-study-hello-world/commit/763fab3))
+* node fix ([1d25cbd](https://github.com/shiba328/npm-study-hello-world/commit/1d25cbd))
+* set git config ([9be8df3](https://github.com/shiba328/npm-study-hello-world/commit/9be8df3))
+
 ### [1.1.2](https://github.com/shiba328/npm-study-hello-world/compare/v1.1.1...v1.1.2) (2019-09-30)
 
 
