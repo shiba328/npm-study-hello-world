@@ -1,7 +1,7 @@
 {
   "name": "npm-study-hello-world",
   "version": "1.0",
-  "description": "npm勉強用のpackag",
+  "description": "npm勉強用のpackage",
   "main": "index.js",
   "scripts": {
     "release": "standard-version"
