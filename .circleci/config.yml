@@ -38,7 +38,7 @@ jobs:
           key: v1-dependencies-{{ checksum "package.json" }}
 
       # run tests!
-      - run: yarn release
       - run: git config --global user.email "$GIT_AUTHOR_EMAIL"
       - run: git config --global user.name "$GIT_AUTHOR_NAME"
+      - run: yarn release
       - run: git push --follow-tags origin master
