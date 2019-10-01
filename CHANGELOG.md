@@ -2,6 +2,18 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.2.0](https://github.com/shiba328/npm-study-hello-world/compare/v1.1.30...v1.2.0) (2019-10-01)
+
+
+### Bug Fixes
+
+* create foo ([3fe70f8](https://github.com/shiba328/npm-study-hello-world/commit/3fe70f8))
+
+
+### Features
+
+* create bar ([208e70d](https://github.com/shiba328/npm-study-hello-world/commit/208e70d))
+
 ### [1.1.30](https://github.com/shiba328/npm-study-hello-world/compare/v1.1.29...v1.1.30) (2019-10-01)
 
 
