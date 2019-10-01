@@ -4,7 +4,7 @@
   "description": "npm勉強用のpackage",
   "main": "index.js",
   "scripts": {
-    "release": "standard-version -m [skip ci]"
+    "release": "standard-version"
   },
   "husky": {
     "hooks": {
