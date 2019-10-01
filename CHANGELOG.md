@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.4.0](https://github.com/shiba328/npm-study-hello-world/compare/v1.3.0...v1.4.0) (2019-10-01)
+
+
+### Features
+
+* new feature ([67e0517](https://github.com/shiba328/npm-study-hello-world/commit/67e0517))
+
 ## [1.3.0](https://github.com/shiba328/npm-study-hello-world/compare/v1.2.4...v1.3.0) (2019-10-01)
 
 
