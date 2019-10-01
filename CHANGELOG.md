@@ -2,6 +2,24 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [2.0.0](https://github.com/shiba328/npm-study-hello-world/compare/v1.4.0...v2.0.0) (2019-10-01)
+
+
+### ⚠ BREAKING CHANGES
+
+* Site redesign
+
+### Bug Fixes
+
+* messageにカレントタグの追加 ([721650e](https://github.com/shiba328/npm-study-hello-world/commit/721650e))
+* 文字列 ([d3f810b](https://github.com/shiba328/npm-study-hello-world/commit/d3f810b))
+* 文字列 ([4c6d7b0](https://github.com/shiba328/npm-study-hello-world/commit/4c6d7b0))
+
+
+### Features
+
+* add new ([96e95a9](https://github.com/shiba328/npm-study-hello-world/commit/96e95a9))
+
 ## [1.4.0](https://github.com/shiba328/npm-study-hello-world/compare/v1.3.0...v1.4.0) (2019-10-01)
 
 
