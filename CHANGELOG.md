@@ -2,6 +2,83 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.2.0](https://github.com/shiba328/npm-study-hello-world/compare/v1.1.30...v1.2.0) (2019-10-01)
+
+
+### Bug Fixes
+
+* create foo ([3fe70f8](https://github.com/shiba328/npm-study-hello-world/commit/3fe70f8))
+
+
+### Features
+
+* create bar ([208e70d](https://github.com/shiba328/npm-study-hello-world/commit/208e70d))
+
+### [1.1.30](https://github.com/shiba328/npm-study-hello-world/compare/v1.1.29...v1.1.30) (2019-10-01)
+
+
+### Bug Fixes
+
+* delete foo ([a38d403](https://github.com/shiba328/npm-study-hello-world/commit/a38d403))
+
+### [1.1.29](https://github.com/shiba328/npm-study-hello-world/compare/v1.1.28...v1.1.29) (2019-10-01)
+
+### [1.1.28](https://github.com/shiba328/npm-study-hello-world/compare/v1.1.20...v1.1.28) (2019-10-01)
+
+
+### Bug Fixes
+
+* bad loop ([28f2636](https://github.com/shiba328/npm-study-hello-world/commit/28f2636))
+
+### [1.1.27](https://github.com/shiba328/npm-study-hello-world/compare/v1.1.20...v1.1.27) (2019-10-01)
+
+
+### Bug Fixes
+
+* bad loop ([28f2636](https://github.com/shiba328/npm-study-hello-world/commit/28f2636))
+
+### [1.1.26](https://github.com/shiba328/npm-study-hello-world/compare/v1.1.20...v1.1.26) (2019-10-01)
+
+
+### Bug Fixes
+
+* bad loop ([28f2636](https://github.com/shiba328/npm-study-hello-world/commit/28f2636))
+
+### [1.1.25](https://github.com/shiba328/npm-study-hello-world/compare/v1.1.20...v1.1.25) (2019-10-01)
+
+
+### Bug Fixes
+
+* bad loop ([28f2636](https://github.com/shiba328/npm-study-hello-world/commit/28f2636))
+
+### [1.1.24](https://github.com/shiba328/npm-study-hello-world/compare/v1.1.20...v1.1.24) (2019-10-01)
+
+
+### Bug Fixes
+
+* bad loop ([28f2636](https://github.com/shiba328/npm-study-hello-world/commit/28f2636))
+
+### [1.1.23](https://github.com/shiba328/npm-study-hello-world/compare/v1.1.20...v1.1.23) (2019-10-01)
+
+
+### Bug Fixes
+
+* bad loop ([28f2636](https://github.com/shiba328/npm-study-hello-world/commit/28f2636))
+
+### [1.1.22](https://github.com/shiba328/npm-study-hello-world/compare/v1.1.20...v1.1.22) (2019-10-01)
+
+
+### Bug Fixes
+
+* bad loop ([28f2636](https://github.com/shiba328/npm-study-hello-world/commit/28f2636))
+
+### [1.1.21](https://github.com/shiba328/npm-study-hello-world/compare/v1.1.20...v1.1.21) (2019-10-01)
+
+
+### Bug Fixes
+
+* bad loop ([28f2636](https://github.com/shiba328/npm-study-hello-world/commit/28f2636))
+
 ### [1.1.20](https://github.com/shiba328/npm-study-hello-world/compare/v1.1.19...v1.1.20) (2019-09-30)
 
 ### [1.1.19](https://github.com/shiba328/npm-study-hello-world/compare/v1.1.18...v1.1.19) (2019-09-30)
