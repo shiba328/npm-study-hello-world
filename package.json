@@ -1,10 +1,10 @@
 {
   "name": "npm-study-hello-world",
-  "version": "1.1.20",
+  "version": "1.1.28",
   "description": "npm勉強用のpackage",
   "main": "index.js",
   "scripts": {
-    "release": "standard-version -m [skip ci]"
+    "release": "standard-version -m \"ci: changelog [skip ci]\""
   },
   "husky": {
     "hooks": {

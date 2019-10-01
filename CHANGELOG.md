@@ -2,6 +2,62 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.1.28](https://github.com/shiba328/npm-study-hello-world/compare/v1.1.20...v1.1.28) (2019-10-01)
+
+
+### Bug Fixes
+
+* bad loop ([28f2636](https://github.com/shiba328/npm-study-hello-world/commit/28f2636))
+
+### [1.1.27](https://github.com/shiba328/npm-study-hello-world/compare/v1.1.20...v1.1.27) (2019-10-01)
+
+
+### Bug Fixes
+
+* bad loop ([28f2636](https://github.com/shiba328/npm-study-hello-world/commit/28f2636))
+
+### [1.1.26](https://github.com/shiba328/npm-study-hello-world/compare/v1.1.20...v1.1.26) (2019-10-01)
+
+
+### Bug Fixes
+
+* bad loop ([28f2636](https://github.com/shiba328/npm-study-hello-world/commit/28f2636))
+
+### [1.1.25](https://github.com/shiba328/npm-study-hello-world/compare/v1.1.20...v1.1.25) (2019-10-01)
+
+
+### Bug Fixes
+
+* bad loop ([28f2636](https://github.com/shiba328/npm-study-hello-world/commit/28f2636))
+
+### [1.1.24](https://github.com/shiba328/npm-study-hello-world/compare/v1.1.20...v1.1.24) (2019-10-01)
+
+
+### Bug Fixes
+
+* bad loop ([28f2636](https://github.com/shiba328/npm-study-hello-world/commit/28f2636))
+
+### [1.1.23](https://github.com/shiba328/npm-study-hello-world/compare/v1.1.20...v1.1.23) (2019-10-01)
+
+
+### Bug Fixes
+
+* bad loop ([28f2636](https://github.com/shiba328/npm-study-hello-world/commit/28f2636))
+
+### [1.1.22](https://github.com/shiba328/npm-study-hello-world/compare/v1.1.20...v1.1.22) (2019-10-01)
+
+
+### Bug Fixes
+
+* bad loop ([28f2636](https://github.com/shiba328/npm-study-hello-world/commit/28f2636))
+
+### [1.1.21](https://github.com/shiba328/npm-study-hello-world/compare/v1.1.20...v1.1.21) (2019-10-01)
+
+
+### Bug Fixes
+
+* bad loop ([28f2636](https://github.com/shiba328/npm-study-hello-world/commit/28f2636))
+
 ### [1.1.20](https://github.com/shiba328/npm-study-hello-world/compare/v1.1.19...v1.1.20) (2019-09-30)
 
 ### [1.1.19](https://github.com/shiba328/npm-study-hello-world/compare/v1.1.18...v1.1.19) (2019-09-30)
