@@ -40,5 +40,5 @@ jobs:
       # run tests!
       - run: git config --global user.email "$GIT_AUTHOR_EMAIL"
       - run: git config --global user.name "$GIT_AUTHOR_NAME"
-      - run: yarn release -m "[skip ci]"
+      - run: yarn release -m "ci: changelog [skip ci]"
       - run: git push --follow-tags origin master
